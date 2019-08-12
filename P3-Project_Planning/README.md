@@ -8,7 +8,7 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-! [Landing Screen] (https://github.com/IsaacArcos248/liftoff-assignments/blob/master/images/Landing_Page.jpg)
+* [Landing Screen] (https://github.com/IsaacArcos248/liftoff-assignments/blob/master/images/Landing_Page.jpg)
 
 * 
 

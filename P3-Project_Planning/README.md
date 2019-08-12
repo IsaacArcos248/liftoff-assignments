@@ -8,7 +8,7 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-* ! [Landing Screen] (/images/Landing_Page.jpg)
+* ! [Landing Screen] (images/Landing_Page.jpg)
 
 * 
 
